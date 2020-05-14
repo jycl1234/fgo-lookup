@@ -243,7 +243,6 @@ export default {
   .container--button {
     display: flex;
     justify-content: center;
-    margin: 1rem 0;
     -webkit-transition: all ease-in-out 0.25s;
     -o-transition: all ease-in-out 0.25s;
     transition: all ease-in-out 0.25s;
