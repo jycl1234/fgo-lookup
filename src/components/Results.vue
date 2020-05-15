@@ -21,7 +21,6 @@
         </div>
         <div class="grid--cell col-xs-12 col-sm-3">
           <span class="responsive--header">Quest</span>
-          &nbsp;
           <div class="responsive--link">
             <a
               class="link--wiki"
@@ -108,13 +107,13 @@ export default {
       }
       .grid--cell {
         padding: 0 0.1rem;
-        margin: 0 0 0.4rem 0;
+        margin: 0.4rem 0;
         color: #000;
         a {
           color: rgba(49, 57, 93, 1);
         }
         @media (min-width: 768px) {
-          margin: 0;
+          margin: 0.2rem 0;
         }
         .responsive--header {
           font-weight: bold;
@@ -131,6 +130,12 @@ export default {
             float: none;
             display: block;
             width: 100%;
+          }
+          .link--wiki:before {
+            content: " ";
+            width: 0.2rem;
+            height: 0.2rem;
+            display: inline-block;
           }
         }
       }
