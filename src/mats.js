@@ -221,7 +221,7 @@ export const mats = [
     endRange: "N135",
     rarity: "silver",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A216"
   },
   {
@@ -365,7 +365,7 @@ export const mats = [
     endRange: "N219",
     rarity: "gold",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A113"
   },
   {
