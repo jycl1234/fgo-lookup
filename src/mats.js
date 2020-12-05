@@ -252,9 +252,18 @@ export const mats = [
     filename: "A219"
   },
   {
-    name: "Claw of Chaos",
+    name: "Rainbow Thread Ball",
     startRange: "D153",
     endRange: "N157",
+    rarity: "silver",
+    type: "mat",
+    availability: "JP",
+    filename: "A220"
+  },
+  {
+    name: "Claw of Chaos",
+    startRange: "D158",
+    endRange: "N162",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -262,8 +271,8 @@ export const mats = [
   },
   {
     name: "Heart of the Foreign God",
-    startRange: "D158",
-    endRange: "N162",
+    startRange: "D163",
+    endRange: "N167",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -271,8 +280,8 @@ export const mats = [
   },
   {
     name: "Dragon's Reverse Scale",
-    startRange: "D163",
-    endRange: "N167",
+    startRange: "D168",
+    endRange: "N172",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -280,8 +289,8 @@ export const mats = [
   },
   {
     name: "Spirit Root",
-    startRange: "D168",
-    endRange: "N172",
+    startRange: "D173",
+    endRange: "N177",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -289,8 +298,8 @@ export const mats = [
   },
   {
     name: "Warhorse's Young Horn",
-    startRange: "D173",
-    endRange: "N177",
+    startRange: "D178",
+    endRange: "N182",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -298,8 +307,8 @@ export const mats = [
   },
   {
     name: "Tearstone of Blood",
-    startRange: "D178",
-    endRange: "N182",
+    startRange: "D183",
+    endRange: "N187",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -307,8 +316,8 @@ export const mats = [
   },
   {
     name: "Black Beast Grease",
-    startRange: "D183",
-    endRange: "N187",
+    startRange: "D190",
+    endRange: "N194",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -316,8 +325,8 @@ export const mats = [
   },
   {
     name: "Lamp of Evil-Sealing",
-    startRange: "D190",
-    endRange: "N194",
+    startRange: "D195",
+    endRange: "N199",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -325,8 +334,8 @@ export const mats = [
   },
   {
     name: "Scarab of Wisdom",
-    startRange: "D195",
-    endRange: "N199",
+    startRange: "D200",
+    endRange: "N204",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -334,8 +343,8 @@ export const mats = [
   },
   {
     name: "Primordial Lanugo",
-    startRange: "D200",
-    endRange: "N204",
+    startRange: "D205",
+    endRange: "N209",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -343,8 +352,8 @@ export const mats = [
   },
   {
     name: "Cursed Beast Gallstone",
-    startRange: "D205",
-    endRange: "N209",
+    startRange: "D210",
+    endRange: "N214",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -352,8 +361,8 @@ export const mats = [
   },
   {
     name: "Mysterious Divine Wine",
-    startRange: "D210",
-    endRange: "N214",
+    startRange: "D215",
+    endRange: "N219",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -361,8 +370,8 @@ export const mats = [
   },
   {
     name: "Dawnlight Reactor Core",
-    startRange: "D215",
-    endRange: "N219",
+    startRange: "D220",
+    endRange: "N224",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -370,8 +379,8 @@ export const mats = [
   },
   {
     name: "Tsukumo Mirror",
-    startRange: "D220",
-    endRange: "N224",
+    startRange: "T190",
+    endRange: "AD194",
     rarity: "gold",
     type: "mat",
     availability: "JP",
@@ -379,8 +388,8 @@ export const mats = [
   },
   {
     name: "Egg of Truth",
-    startRange: "T190",
-    endRange: "AD194",
+    startRange: "T195",
+    endRange: "AD199",
     rarity: "gold",
     type: "mat",
     availability: "JP",
@@ -388,8 +397,8 @@ export const mats = [
   },
   {
     name: "Glittering Star Shard",
-    startRange: "T195",
-    endRange: "AD199",
+    startRange: "T200",
+    endRange: "AD204",
     rarity: "gold",
     type: "mat",
     availability: "JP",
@@ -397,12 +406,21 @@ export const mats = [
   },
   {
     name: "Fruit of Eternity",
-    startRange: "T200",
-    endRange: "AD204",
+    startRange: "T205",
+    endRange: "AD209",
     rarity: "gold",
     type: "mat",
     availability: "JP",
     filename: "A117"
+  },
+  {
+    name: "Demon Flame Lantern",
+    startRange: "T210",
+    endRange: "AD214",
+    rarity: "gold",
+    type: "mat",
+    availability: "JP",
+    filename: "A118"
   },
   {
     name: "Secret Gem of Saber",
