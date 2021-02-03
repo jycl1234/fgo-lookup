@@ -383,7 +383,7 @@ export const mats = [
     endRange: "AD194",
     rarity: "gold",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A114"
   },
   {
