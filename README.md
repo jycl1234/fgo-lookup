@@ -14,7 +14,10 @@ Create a file named apiKey.js, and add this line of code: `export const apiKey =
 
 As of 5/2/2020, the Sheets API has a limit of 500 requests per 100 seconds.
 
-Once the `apiKey.js` file is created, build the project and deploy.
+Once the `apiKey.js` file is created:
+
+- Build project: yarn build
+- Run project locally: yarn serve
 
 ## Data Source
 
