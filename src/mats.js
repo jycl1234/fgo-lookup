@@ -264,7 +264,7 @@ export const mats = [
     name: "Rainbow Thread Ball",
     startRange: "D158",
     endRange: "N162",
-    rarity: "gold",
+    rarity: "silver",
     type: "mat",
     availability: "JP",
     filename: "A220"
