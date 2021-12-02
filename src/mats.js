@@ -243,12 +243,12 @@ export const mats = [
     filename: "A217"
   },
   {
-    name: "Moonlit Tiara",
+    name: "Crown of Silvery Light",
     startRange: "D146",
     endRange: "N150",
     rarity: "silver",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A218"
   },
   {
@@ -414,12 +414,12 @@ export const mats = [
     filename: "A115"
   },
   {
-    name: "Glittering Star Shard",
+    name: "Fragment of a Twinkling Star",
     startRange: "T210",
     endRange: "AD214",
     rarity: "gold",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A116"
   },
   {
