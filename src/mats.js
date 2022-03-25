@@ -252,12 +252,12 @@ export const mats = [
     filename: "A218"
   },
   {
-    name: "Divine Spirit Particle",
+    name: "Divine Spiritron",
     startRange: "D153",
     endRange: "N157",
     rarity: "silver",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A219"
   },
   {
@@ -428,7 +428,7 @@ export const mats = [
     endRange: "AD219",
     rarity: "gold",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "A117"
   },
   {
