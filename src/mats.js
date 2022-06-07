@@ -81,7 +81,7 @@ export const mats = [
     filename: "A309"
   },
   {
-    name: "Small Bells of Amnesty",
+    name: "Small Bells of Absolution",
     startRange: "D52",
     endRange: "N56",
     rarity: "bronze",
@@ -90,9 +90,27 @@ export const mats = [
     filename: "A310"
   },
   {
-    name: "Seed of Yggdrasil",
+    name: "Twilight Ceremonial Blade",
     startRange: "D57",
     endRange: "N61",
+    rarity: "bronze",
+    type: "mat",
+    availability: "JP",
+    filename: "A311"
+  },
+  {
+    name: "Unforgettable Ashes",
+    startRange: "D62",
+    endRange: "N66",
+    rarity: "bronze",
+    type: "mat",
+    availability: "JP",
+    filename: "A312"
+  },
+  {
+    name: "Seed of Yggdrasil",
+    startRange: "D67",
+    endRange: "N71",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -100,8 +118,8 @@ export const mats = [
   },
   {
     name: "Ghost Lantern",
-    startRange: "D62",
-    endRange: "N66",
+    startRange: "D72",
+    endRange: "N76",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -109,8 +127,8 @@ export const mats = [
   },
   {
     name: "Octuplet Crystal",
-    startRange: "D67",
-    endRange: "N71",
+    startRange: "D79",
+    endRange: "N83",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -118,8 +136,8 @@ export const mats = [
   },
   {
     name: "Serpent Jewel",
-    startRange: "D72",
-    endRange: "N76",
+    startRange: "D84",
+    endRange: "N88",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -127,8 +145,8 @@ export const mats = [
   },
   {
     name: "Phoenix Feather",
-    startRange: "D79",
-    endRange: "N83",
+    startRange: "D89",
+    endRange: "N93",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -136,8 +154,8 @@ export const mats = [
   },
   {
     name: "Eternal Gear",
-    startRange: "D84",
-    endRange: "N88",
+    startRange: "D94",
+    endRange: "N98",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -145,8 +163,8 @@ export const mats = [
   },
   {
     name: "Forbidden Page",
-    startRange: "D89",
-    endRange: "N93",
+    startRange: "D99",
+    endRange: "N103",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -154,8 +172,8 @@ export const mats = [
   },
   {
     name: "Homunculus Baby",
-    startRange: "D94",
-    endRange: "N98",
+    startRange: "D104",
+    endRange: "N108",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -163,8 +181,8 @@ export const mats = [
   },
   {
     name: "Meteor Horseshoe",
-    startRange: "D99",
-    endRange: "N103",
+    startRange: "D109",
+    endRange: "N113",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -172,8 +190,8 @@ export const mats = [
   },
   {
     name: "Great Knight Medal",
-    startRange: "D104",
-    endRange: "N108",
+    startRange: "D116",
+    endRange: "N120",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -181,8 +199,8 @@ export const mats = [
   },
   {
     name: "Shell of Reminiscence",
-    startRange: "D109",
-    endRange: "N113",
+    startRange: "D121",
+    endRange: "N125",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -190,8 +208,8 @@ export const mats = [
   },
   {
     name: "Refined Magatama",
-    startRange: "D116",
-    endRange: "N120",
+    startRange: "D126",
+    endRange: "N130",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -199,8 +217,8 @@ export const mats = [
   },
   {
     name: "Eternal Ice",
-    startRange: "D121",
-    endRange: "N125",
+    startRange: "D131",
+    endRange: "N135",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -208,8 +226,8 @@ export const mats = [
   },
   {
     name: "Giant's Ring",
-    startRange: "D126",
-    endRange: "N130",
+    startRange: "D136",
+    endRange: "N140",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -217,8 +235,8 @@ export const mats = [
   },
   {
     name: "Aurora Steel",
-    startRange: "D131",
-    endRange: "N135",
+    startRange: "D141",
+    endRange: "N145",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -226,8 +244,8 @@ export const mats = [
   },
   {
     name: "Soundless Bell",
-    startRange: "D136",
-    endRange: "N140",
+    startRange: "D146",
+    endRange: "N150",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -235,8 +253,8 @@ export const mats = [
   },
   {
     name: "Arrowhead of Malice",
-    startRange: "D141",
-    endRange: "N145",
+    startRange: "D153",
+    endRange: "N157",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -244,8 +262,8 @@ export const mats = [
   },
   {
     name: "Crown of Silvery Light",
-    startRange: "D146",
-    endRange: "N150",
+    startRange: "D158",
+    endRange: "N162",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -253,8 +271,8 @@ export const mats = [
   },
   {
     name: "Divine Spiritron",
-    startRange: "D153",
-    endRange: "N157",
+    startRange: "D163",
+    endRange: "N167",
     rarity: "silver",
     type: "mat",
     availability: "ALL",
@@ -262,8 +280,8 @@ export const mats = [
   },
   {
     name: "Rainbow Thread Ball",
-    startRange: "D158",
-    endRange: "N162",
+    startRange: "D168",
+    endRange: "N172",
     rarity: "silver",
     type: "mat",
     availability: "JP",
@@ -271,8 +289,8 @@ export const mats = [
   },
   {
     name: "Scales of Phantasy",
-    startRange: "D163",
-    endRange: "N167",
+    startRange: "D173",
+    endRange: "N177",
     rarity: "silver",
     type: "mat",
     availability: "JP",
@@ -280,8 +298,8 @@ export const mats = [
   },
   {
     name: "Claw of Chaos",
-    startRange: "D168",
-    endRange: "N172",
+    startRange: "D178",
+    endRange: "N182",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -289,8 +307,8 @@ export const mats = [
   },
   {
     name: "Heart of the Foreign God",
-    startRange: "D173",
-    endRange: "N177",
+    startRange: "D183",
+    endRange: "N187",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -298,8 +316,8 @@ export const mats = [
   },
   {
     name: "Dragon's Reverse Scale",
-    startRange: "D178",
-    endRange: "N182",
+    startRange: "D190",
+    endRange: "N194",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -307,8 +325,8 @@ export const mats = [
   },
   {
     name: "Spirit Root",
-    startRange: "D183",
-    endRange: "N187",
+    startRange: "D195",
+    endRange: "N199",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -316,8 +334,8 @@ export const mats = [
   },
   {
     name: "Warhorse's Young Horn",
-    startRange: "D190",
-    endRange: "N194",
+    startRange: "D200",
+    endRange: "N204",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -325,8 +343,8 @@ export const mats = [
   },
   {
     name: "Tearstone of Blood",
-    startRange: "D195",
-    endRange: "N199",
+    startRange: "D205",
+    endRange: "N209",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -334,8 +352,8 @@ export const mats = [
   },
   {
     name: "Black Beast Grease",
-    startRange: "D200",
-    endRange: "N204",
+    startRange: "D210",
+    endRange: "N214",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -343,8 +361,8 @@ export const mats = [
   },
   {
     name: "Lamp of Evil-Sealing",
-    startRange: "D205",
-    endRange: "N209",
+    startRange: "D215",
+    endRange: "N219",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -352,80 +370,17 @@ export const mats = [
   },
   {
     name: "Scarab of Wisdom",
-    startRange: "D210",
-    endRange: "N214",
+    startRange: "D220",
+    endRange: "N224",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
     filename: "A109"
   },
   {
-    name: "Primordial Lanugo",
-    startRange: "D215",
-    endRange: "N219",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A110"
-  },
-  {
-    name: "Cursed Beast Gallstone",
-    startRange: "D220",
-    endRange: "N224",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A111"
-  },
-  {
-    name: "Mysterious Divine Wine",
-    startRange: "T190",
-    endRange: "AD194",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A112"
-  },
-  {
-    name: "Reactor Core of Dawn",
-    startRange: "T195",
-    endRange: "AD199",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A113"
-  },
-  {
-    name: "Tsukumo Mirror",
-    startRange: "T200",
-    endRange: "AD204",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A114"
-  },
-  {
-    name: "Egg of Truth",
-    startRange: "T205",
-    endRange: "AD209",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A115"
-  },
-  {
-    name: "Fragment of a Twinkling Star",
-    startRange: "T210",
-    endRange: "AD214",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "A116"
-  },
-  {
     name: "Fruit of Eternity",
-    startRange: "T215",
-    endRange: "AD219",
+    startRange: "D227",
+    endRange: "N231",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
@@ -433,8 +388,8 @@ export const mats = [
   },
   {
     name: "Demon Flame Lantern",
-    startRange: "T220",
-    endRange: "AD224",
+    startRange: "D232",
+    endRange: "N236",
     rarity: "gold",
     type: "mat",
     availability: "JP",
@@ -754,5 +709,68 @@ export const mats = [
     type: "ascension",
     availability: "ALL",
     filename: "B217"
+  },
+  {
+    name: "Primordial Lanugo",
+    startRange: "T190",
+    endRange: "AD194",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A110"
+  },
+  {
+    name: "Cursed Beast Gallstone",
+    startRange: "T195",
+    endRange: "AD199",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A111"
+  },
+  {
+    name: "Mysterious Divine Wine",
+    startRange: "T200",
+    endRange: "AD204",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A112"
+  },
+  {
+    name: "Reactor Core of Dawn",
+    startRange: "T205",
+    endRange: "AD209",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A113"
+  },
+  {
+    name: "Tsukumo Mirror",
+    startRange: "T210",
+    endRange: "AD214",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A114"
+  },
+  {
+    name: "Egg of Truth",
+    startRange: "T215",
+    endRange: "AD219",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A115"
+  },
+  {
+    name: "Fragment of a Twinkling Star",
+    startRange: "T220",
+    endRange: "AD224",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "A116"
   }
 ];
