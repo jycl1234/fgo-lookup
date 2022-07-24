@@ -150,7 +150,7 @@ export default {
   },
   methods: {
     getUrl(mat) {
-      return require("@/assets/" + mat.filename + ".png");
+      return `https://static.atlasacademy.io/JP/Items/${mat.filename}_bordered.png`;
     },
     handleToggle() {
       this.$emit("handle-mat-toggle");
