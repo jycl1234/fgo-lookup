@@ -378,6 +378,69 @@ export const mats = [
     filename: "6525"
   },
   {
+    name: "Primordial Lanugo",
+    startRange: "T190",
+    endRange: "AD194",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6528"
+  },
+  {
+    name: "Cursed Beast Gallstone",
+    startRange: "T195",
+    endRange: "AD199",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6529"
+  },
+  {
+    name: "Mysterious Divine Wine",
+    startRange: "T200",
+    endRange: "AD204",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6531"
+  },
+  {
+    name: "Reactor Core of Dawn",
+    startRange: "T205",
+    endRange: "AD209",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6539"
+  },
+  {
+    name: "Tsukumo Mirror",
+    startRange: "T210",
+    endRange: "AD214",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6540"
+  },
+  {
+    name: "Egg of Truth",
+    startRange: "T215",
+    endRange: "AD219",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6542"
+  },
+  {
+    name: "Fragment of a Twinkling Star",
+    startRange: "T220",
+    endRange: "AD224",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6544"
+  },
+  {
     name: "Fruit of Eternity",
     startRange: "D227",
     endRange: "N231",
@@ -709,68 +772,5 @@ export const mats = [
     type: "ascension",
     availability: "ALL",
     filename: "7007"
-  },
-  {
-    name: "Primordial Lanugo",
-    startRange: "T190",
-    endRange: "AD194",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6528"
-  },
-  {
-    name: "Cursed Beast Gallstone",
-    startRange: "T195",
-    endRange: "AD199",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6529"
-  },
-  {
-    name: "Mysterious Divine Wine",
-    startRange: "T200",
-    endRange: "AD204",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6531"
-  },
-  {
-    name: "Reactor Core of Dawn",
-    startRange: "T205",
-    endRange: "AD209",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6539"
-  },
-  {
-    name: "Tsukumo Mirror",
-    startRange: "T210",
-    endRange: "AD214",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6540"
-  },
-  {
-    name: "Egg of Truth",
-    startRange: "T215",
-    endRange: "AD219",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6542"
-  },
-  {
-    name: "Fragment of a Twinkling Star",
-    startRange: "T220",
-    endRange: "AD224",
-    rarity: "gold",
-    type: "mat",
-    availability: "ALL",
-    filename: "6544"
   }
 ];

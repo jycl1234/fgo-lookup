@@ -198,9 +198,9 @@ export default {
 
       // order by filename
 
-      newMatsTypeFiltered = newMatsTypeFiltered.sort((a, b) =>
-        a.filename > b.filename ? 1 : -1
-      );
+      // newMatsTypeFiltered = newMatsTypeFiltered.sort((a, b) =>
+      //   a.filename > b.filename ? 1 : -1
+      // );
 
       // double check mat still exists, otherwise reset
 
