@@ -469,7 +469,7 @@ export const mats = [
   },
   {
     name: "Tsukumo Mirror",
-    startRange: "T2120",
+    startRange: "T220",
     endRange: "AD224",
     rarity: "gold",
     type: "mat",
