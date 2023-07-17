@@ -81,12 +81,12 @@ export const mats = [
     filename: "6534"
   },
   {
-    name: "Small Bells of Absolution",
+    name: "Small Bell of Absolution",
     startRange: "D52",
     endRange: "N56",
     rarity: "bronze",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "6549"
   },
   {
@@ -306,12 +306,12 @@ export const mats = [
     filename: "6547"
   },
   {
-    name: "Scales of Fantasy",
+    name: "Scale of Fantasy",
     startRange: "D183",
     endRange: "N187",
     rarity: "silver",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "6550"
   },
   {
