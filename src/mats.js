@@ -111,7 +111,7 @@ export const mats = [
     name: "Obsidian Edge",
     startRange: "D67",
     endRange: "N71",
-    rarity: "silver",
+    rarity: "bronze",
     type: "mat",
     availability: "JP",
     filename: "6554"
@@ -120,7 +120,7 @@ export const mats = [
     name: "Vestige of Madness",
     startRange: "D72",
     endRange: "N76",
-    rarity: "silver",
+    rarity: "bronze",
     type: "mat",
     availability: "JP",
     filename: "6555"
